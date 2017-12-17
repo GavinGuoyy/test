@@ -1,4 +1,4 @@
-language: java
+language: python
+python:
 
-jdk:
-  - oraclejdk8
+script: python runut.py
